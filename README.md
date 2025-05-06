@@ -35,6 +35,6 @@ Mac User:
 1. Open Terminal, type xcode-select --install to install the Command Line Tools.
 2. In Terminal, type gcc main.c logger.c math_library.c test_harness.c -o test-bench for compile the prgram and build the executable.
 3. Lastly, type ./test-bench to run the program.
-
+<hr/>
 Welcome to clone it, add new mathematical functions or entirely different modules, and expand, the infrastructure is already wired for you.
 
